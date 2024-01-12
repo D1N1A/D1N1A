@@ -3,12 +3,12 @@
 ### Hi there 👋 
 
 - 🔭 I’m currently ***looking for a job***
-- 🌱 I’m currently **learning**
-     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-     
+- 🌱 I’m currently **developing in Java** 
+- 🌱 I’m also currently **learning C#** 
+    
 - 💼 I’m looking to collaborate on projects 
 
-- 🔍 I’m looking for help with learning Java and other programming languages
+- 🔍 I’m looking for help with learning other programming languages
 
 - 💬 Ask me about if I want to work for you or work on a project with you
 - 📫 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) adriana.plecas@gmail.com
