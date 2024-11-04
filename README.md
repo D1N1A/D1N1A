@@ -11,7 +11,7 @@
 - 🔍 I’m looking for help with learning other programming languages
 
 - 💬 Ask me about if I want to work for you or work on a project with you
-- 📫 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) adriana.plecas@gmail.com
+- 📫 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) plecas.os@gmail.com
 
 - ⚡ Fun fact: I would like to learn and work regardless in wich programming language you work
 
